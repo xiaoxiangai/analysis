@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5e006fa-a710-45c3-8710-a5c808af13fc" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\flinks\kafka-flink-mysql\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qujv4Jrsc9ASRLGpmtioHo9vcZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\flinks\kafka-flink-mysql\src\main\resources" />
+      <recent name="E:\flinks\kafka-flink-mysql\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JieXiJson" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="JieXiJson" />
+      <module name="kafka-flink-sink" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JieXiJson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5e006fa-a710-45c3-8710-a5c808af13fc" name="默认更改列表" comment="" />
+      <created>1617936595105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617936595105</updated>
+      <workItem from="1617936597955" duration="5165000" />
+      <workItem from="1618019125979" duration="2667000" />
+      <workItem from="1618042285501" duration="823000" />
+      <workItem from="1618043165103" duration="2953000" />
+      <workItem from="1618232221201" duration="1425000" />
+      <workItem from="1618276910721" duration="239000" />
+      <workItem from="1618277419249" duration="2996000" />
+      <workItem from="1618385545869" duration="663000" />
+      <workItem from="1618472680814" duration="643000" />
+      <workItem from="1618972591770" duration="510000" />
+      <workItem from="1618988420750" duration="598000" />
+      <workItem from="1618991632531" duration="2973000" />
+      <workItem from="1619055007381" duration="189000" />
+      <workItem from="1619063652129" duration="73000" />
+      <workItem from="1619601963594" duration="673000" />
+      <workItem from="1619662333423" duration="427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1619662412351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="557" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1619662412351" />
+    <state x="600" y="55" key="#项目结构" timestamp="1617939233221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="600" y="55" key="#项目结构/0.0.1536.824@0.0.1536.824" timestamp="1617939233221" />
+    <state width="1042" height="218" key="GridCell.Tab.0.bottom" timestamp="1618315682058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1042" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618315682058" />
+    <state width="1042" height="218" key="GridCell.Tab.0.center" timestamp="1618315682058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1042" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618315682058" />
+    <state width="1042" height="218" key="GridCell.Tab.0.left" timestamp="1618315682058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1042" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618315682058" />
+    <state width="1042" height="218" key="GridCell.Tab.0.right" timestamp="1618315682058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1042" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618315682058" />
+    <state x="342" y="0" key="SettingsEditor" timestamp="1619662348132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="342" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1619662348132" />
+    <state x="151" y="62" width="1180" height="625" key="new project wizard" timestamp="1618472729384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="151" y="62" width="1180" height="625" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1618472729384" />
+  </component>
+</project>
