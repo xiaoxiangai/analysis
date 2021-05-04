@@ -52,8 +52,12 @@ Kafka是一个广泛使用的高可用的分布式消息队列，作为数据接
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0504/121549_e747bcc1_5325125.png "屏幕截图.png")
 
+#### 应用效果
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0504/123053_dbdac86e_5325125.png "屏幕截图.png")
 
-#### 使用说明
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0504/123137_fa582c65_5325125.png "屏幕截图.png")
+
+#### 演示环境
 
 1.  小象数据营销云演示
 https://data.xiaoxiangai.com/   用户名密码：xiaoxiang1/123456
