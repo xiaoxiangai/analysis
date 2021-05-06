@@ -1,6 +1,6 @@
 # 小象用户行为分析日志采集
 #### 微信群
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0504/121057_ca039fc3_5325125.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0506/190130_320f09a4_5325125.png "屏幕截图.png")
 
 #### 介绍
 小象电商系统上线后，需要收集用户行为数据，通过大数据实时分析实现电商业务数字化运营。小象智慧基于此强需求开发小象行为日志产品并开源，产品兼容神策开源的埋点SDK完成终端行为上报，采用Nginx+Flume+kafka实现日志收集，采用Flink+ClickHouse架构实现OLAP的实时分析，同时数据会备份写入HDFS。
