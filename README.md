@@ -73,7 +73,7 @@ https://data.xiaoxiangai.com/   用户名密码：xiaoxiang1/123456
 如果您觉得我们的开源项目 小象数据行为分析 对您有帮助，那就请项目开发者们来一杯喜茶吧！当前我们接受来自于微信、支付宝或者码云的捐赠，请在捐赠时备注自己的昵称或附言。
 
 您的捐赠将用于支付该项目的一些费用支出，并激励开发者们以便更好的推动项目的发展，同时欢迎捐赠公网服务器用于提高在线演示系统体验。
-|![输入图片说明](https://images.gitee.com/uploads/images/2021/0508/105255_19c5596f_5325125.png "屏幕截图.png")| ![输入图片说明](https://images.gitee.com/uploads/images/2021/0508/105322_0e650925_5325125.png "屏幕截图.png")|
+|![输入图片说明](https://images.gitee.com/uploads/images/2021/0508/105255_19c5596f_5325125.png "屏幕截图.png")| ![输入图片说明](https://images.gitee.com/uploads/images/2021/0508/124019_cdd95732_5325125.png "屏幕截图.png")|
 |---|---|
 
 
