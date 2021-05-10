@@ -133,7 +133,7 @@ public class CustomInterceptor implements Interceptor {
 //            System.out.println("解密：" + data);
             logger.info("log解密：" + data);
         } catch (Exception e) {
-            System.out.println("解密异常  \n");
+            logger.info("解密异常  \n");
             //e.printStackTrace();
         }
 //        if (data.startsWith("[")){
