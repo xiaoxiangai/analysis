@@ -15,4 +15,5 @@ public class Constant {
     public static final String PARAM_DATA = "data=";
     public static final String PARAM_DATA_LIST = "data_list=";
     public static final String PARAM_GZIP = "gzip=1";
+    public static final String PARAM_test = "test1";
 }
