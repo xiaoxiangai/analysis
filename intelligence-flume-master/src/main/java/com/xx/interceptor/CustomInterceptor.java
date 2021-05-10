@@ -42,6 +42,7 @@ public class CustomInterceptor implements Interceptor {
      */
     @Override
     public void initialize() {
+        System.out.printf("----------初始化时执行拦截器，创建对象完毕执行该方法 \n");
         System.out.printf("----------自定义拦截器的initialize方法执行 \n");
     }
     /**
