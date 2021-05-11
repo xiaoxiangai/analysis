@@ -159,6 +159,10 @@ public class GZipUtil {
 		String string = GZipUtil.uncompress(compress);
 		System.out.println("解压缩后字符串：" + string);
 		System.out.println("解压缩后字符串：" + str);
+        System.out.println("解压缩后字符串：" + string);
+		System.out.println("解压缩后字符串：" + str);
+        System.out.println("==================：" + string);
+		System.out.println("==========：" + str);
 
 	}
 
