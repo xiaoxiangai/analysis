@@ -30,6 +30,7 @@ public class TestMain {
             // 通过分隔符分割数据
             String[] split = strTxt.split(Constant.DEFAULT_INDEXS_SEPARATOR);
             String preData = "";
+            String preData2 = "";
             boolean isData = false;
             boolean isGzip = false;
             for (int i = 0; i < split.length; i++) {
