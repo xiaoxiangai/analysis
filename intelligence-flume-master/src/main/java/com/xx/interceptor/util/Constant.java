@@ -6,7 +6,9 @@ public class Constant {
     public static final String DEFAULT_FIELD_SEPARATOR = " ";
     // 默认indexs分隔符
     public static final String DEFAULT_INDEXS_SEPARATOR = ",";
-
+    //添加分隔符
+    public static final String INDEXS_SEPARATOR = "#";
+    
     public static final String DEFAULT_REQUEST_POST_URL = "POST /gather-api/send";
     public static final String DEFAULT_REQUEST_GET_URL = "GET /gather-api/send";
     public static final String METHOD_GET = "GET";
