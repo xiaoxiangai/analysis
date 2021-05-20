@@ -250,6 +250,9 @@ public class FileUtil {
                 e.printStackTrace();
             }
         }
+        System.out.println("test1");
+        System.out.println("test2");
+        System.out.println("test3");
         return true;
     }
     /**
