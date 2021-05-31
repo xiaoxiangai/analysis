@@ -7,6 +7,9 @@
 
 本开源项目内容包括nginx环境配置、Flume解密和日志格式处理、将明文数据存放到kafka的Topic下、Flink消费后将埋点数据存入HDFS的关键4步操作。为方便前期埋点的校验调优，在kafka环节，增加了埋点解析数据JSON格式存入MySQL。后续计划增加友盟和其他SDK厂商的埋点处理，以及业务系统日志的采集入库。
 
+#### 微信群
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0531/212840_094d92e4_5325125.png "屏幕截图.png")
+
 #### 项目主要内容
 - 日志采集（Flume+kafka）
 - 日志入库（Flink+HDFS）
@@ -59,8 +62,6 @@ SDK埋点采集行为数据来源终端包括iOS、安卓、Web、H5、微信小
 #### 演示环境
 https://data.xiaoxiangai.com/   用户名密码：xiaoxiang1/123456
 
-#### 微信群
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0522/165133_7a954c50_5325125.png "屏幕截图.png")
 
 #### 版权声明
 小象数据行为分析 开源版遵循 GPL-3.0 开源协议发布，并提供免费使用，但 **绝不允许修改后和衍生的代码做为闭源的商业软件发布和销售 ！**
