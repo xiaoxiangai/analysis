@@ -7,7 +7,7 @@
 
 本开源项目内容包括nginx环境配置、Flume解密和日志格式处理、将明文数据存放到kafka的Topic下、Flink消费后将埋点数据存入HDFS的关键4步操作。为方便前期埋点的校验调优，在kafka环节，增加了埋点解析数据JSON格式存入MySQL。后续计划增加友盟和其他SDK厂商的埋点处理，以及业务系统日志的采集入库。
 
-#### 加微信获取演示环境  请注明：github 小象用户行为分析
+#### 加微信获取演示环境  请注明：gitee 小象用户行为分析
 - 微信：mzv988
 - ![输入图片说明](https://images.gitee.com/uploads/images/2021/0201/105231_685d973a_5325125.png "xiaoxiangopen.png")
 
