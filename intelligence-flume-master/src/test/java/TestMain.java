@@ -14,6 +14,7 @@ public class TestMain {
         BASE64Decoder decoder = new BASE64Decoder();
         String data = "解密失败！";
         String method = "";
+        String str = "";
 
         try {
             System.out.println("源数据：" + strTxt+" \n");
