@@ -63,7 +63,7 @@ object JieXiJson {
 
       stream.print()
 	  
-	 //进行数据Json解析ETL
+	 //进行数据Json解析ETL，后续将改为自动匹配处理
     val DateStream = stream.map(line => {
 
       val distinct_id = JSON.parseObject(line).getString("distinct_id")
