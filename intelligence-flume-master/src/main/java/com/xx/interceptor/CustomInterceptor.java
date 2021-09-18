@@ -70,7 +70,7 @@ public class CustomInterceptor implements Interceptor {
                 return null;
             }
 
-            // 通过分隔符分割数据
+            // 兼容开源SDK上行报文，通过分隔符分割数据
             String[] split = eventBody.split(Constant.DEFAULT_INDEXS_SEPARATOR);
             String preData = "";
             boolean isData = false;
